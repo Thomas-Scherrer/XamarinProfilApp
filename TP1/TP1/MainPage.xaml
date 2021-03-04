@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP1.MainPage">
+
+    <ScrollView>
+        <StackLayout>
+            <Image Source="water.jpg" Aspect="AspectFill" HorizontalOptions="Fill"/>
+            <Frame CornerRadius="100" 
+               HeightRequest="70"
+               WidthRequest="70"
+               HorizontalOptions="Center"
+               Padding="0"
+               IsClippedToBounds="True"
+               Margin="0,-40,0,0">
+                <Image Source="fish.jpg" Aspect="AspectFill"/>
+            </Frame>
+            <Grid Margin="0,-33,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20" />
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="30" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <BoxView />
+                <Label Text="Vues"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+                <BoxView Grid.Column="1"/>
+                <Label Grid.Column="1"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+                <Label Grid.Column="2"
+                       Text="Partages"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+                <BoxView Grid.Row="1" />
+                <Label Grid.Row="1"
+                       x:Name="Views"
+                       Text="42"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+                <BoxView Grid.Row="1"
+                         Grid.Column="1" />
+                <Label Grid.Row="1"
+                       Grid.Column="2"
+                       x:Name="Share"
+                       Text="0"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+                <BoxView Grid.Row="2"
+                         Grid.ColumnSpan="2" />
+                <Label Grid.Row="2"
+                       Grid.ColumnSpan="3"
+                       Text="P. Sherman"
+                       TextColor="Black"
+                       FontSize="Title"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+            </Grid>
+            <BoxView HorizontalOptions="FillAndExpand" Color="Gray" HeightRequest="1" Margin="30,0,30,0"/>
+            <Label Text="Informations" 
+                   HorizontalOptions="Start"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   Margin="10,0,0,0"
+            />
+            <Label Text="Né le 28/10/1990"
+                   FontSize="Micro"
+                   TextColor="Black"
+                   HorizontalOptions="Start"
+                   Margin="10,0,0,0"
+            />
+            <Label Text="À Sydney, Australie"
+                   FontSize="Micro"
+                   TextColor="Black"
+                   HorizontalOptions="Start"
+                   Margin="10,0,0,0"
+            />
+            <Label Text="Description" 
+                   HorizontalOptions="Start"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   Margin="10,0,0,0"
+            />
+            <Label Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+                   FontSize="Micro"
+                   TextColor="Black"
+                   HorizontalOptions="End"
+                   HorizontalTextAlignment="End"
+                   Margin="0,0,10,0"
+            />
+            <Button Text="Share my profile" BackgroundColor="DodgerBlue" TextColor="White" Margin="30,0,30,20" HeightRequest="35" FontSize="Micro" Clicked="HandleClick" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
