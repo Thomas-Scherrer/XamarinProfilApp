@@ -1939,11 +1939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1.Android\\TP1.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1.Android\\TP1.Android.csproj",
       "projectName": "TP1.Android",
-      "projectPath": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1.Android\\TP1.Android.csproj",
+      "projectPath": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1.Android\\TP1.Android.csproj",
       "packagesPath": "C:\\Users\\Thom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1.Android\\obj\\",
+      "outputPath": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1964,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Thom\\source\\repos\\TP1\\TP1\\TP1.csproj": {
-              "projectPath": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1\\TP1.csproj"
+            "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1\\TP1.csproj": {
+              "projectPath": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1\\TP1.csproj"
             }
           }
         }

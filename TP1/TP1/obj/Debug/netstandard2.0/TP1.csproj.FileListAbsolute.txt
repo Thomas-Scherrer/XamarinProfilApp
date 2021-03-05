@@ -12,3 +12,17 @@ C:\Users\Thom\source\repos\TP1\TP1\bin\Debug\netstandard2.0\TP1.dll
 C:\Users\Thom\source\repos\TP1\TP1\bin\Debug\netstandard2.0\ref\TP1.dll
 C:\Users\Thom\source\repos\TP1\TP1\bin\Debug\netstandard2.0\TP1.pdb
 C:\Users\Thom\source\repos\TP1\TP1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\bin\Debug\netstandard2.0\TP1.deps.json
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\bin\Debug\netstandard2.0\TP1.dll
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\bin\Debug\netstandard2.0\ref\TP1.dll
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\bin\Debug\netstandard2.0\TP1.pdb
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\obj\Debug\netstandard2.0\TP1.csprojAssemblyReference.cache
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\obj\Debug\netstandard2.0\TP1.AssemblyInfoInputs.cache
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\obj\Debug\netstandard2.0\TP1.AssemblyInfo.cs
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\obj\Debug\netstandard2.0\TP1.csproj.CoreCompileInputs.cache
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\obj\Debug\netstandard2.0\TP1.dll
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\obj\Debug\netstandard2.0\ref\TP1.dll
+C:\Users\Thom\source\repos\XamarinProfilApp\TP1\TP1\obj\Debug\netstandard2.0\TP1.pdb

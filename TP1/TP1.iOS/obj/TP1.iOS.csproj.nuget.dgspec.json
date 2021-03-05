@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thom\\source\\repos\\TP1\\TP1.iOS\\TP1.iOS.csproj": {}
+    "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1.iOS\\TP1.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thom\\source\\repos\\TP1\\TP1.iOS\\TP1.iOS.csproj": {
+    "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1.iOS\\TP1.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1.iOS\\TP1.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1.iOS\\TP1.iOS.csproj",
         "projectName": "TP1.iOS",
-        "projectPath": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1.iOS\\TP1.iOS.csproj",
+        "projectPath": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1.iOS\\TP1.iOS.csproj",
         "packagesPath": "C:\\Users\\Thom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1.iOS\\obj\\",
+        "outputPath": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Thom\\source\\repos\\TP1\\TP1\\TP1.csproj": {
-                "projectPath": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1\\TP1.csproj"
+              "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1\\TP1.csproj": {
+                "projectPath": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1\\TP1.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Thom\\source\\repos\\TP1\\TP1\\TP1.csproj": {
+    "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1\\TP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1\\TP1.csproj",
+        "projectUniqueName": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1\\TP1.csproj",
         "projectName": "TP1",
-        "projectPath": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1\\TP1.csproj",
+        "projectPath": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1\\TP1.csproj",
         "packagesPath": "C:\\Users\\Thom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1\\obj\\",
+        "outputPath": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

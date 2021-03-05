@@ -15,7 +15,7 @@ namespace TP1
         {
             InitializeComponent();
         }
-        private void HandleClick(object sender, EventArgs e)
+        private void AddSharing(object sender, EventArgs e)
         {
             i++;
             Share.Text = i.ToString();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "smOXohWP2lVxjYPOEHhFmhrlvKmUeCbUGHV1hPsMmA8j/tAIvOy71Cz7GqPlQhp7ryJDlDdwnWwLHhNDj5rlLQ==",
+  "dgSpecHash": "qGUD+vShg3/8SFGE0sIfTnEFZsFrU6mrEpB6IwaApkIIiSlv/LPaEhvGLtEfhdlvdXYr9b/tAj8sSB9ifxs/Jw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1.Android\\TP1.Android.csproj",
+  "projectFilePath": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1.Android\\TP1.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

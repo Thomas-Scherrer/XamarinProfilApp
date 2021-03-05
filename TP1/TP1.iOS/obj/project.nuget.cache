@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/cm7eJXe8aSe3FFpuwgXgAdyhrUSCvlpHQ5BkdyFEk/A0SNHYoaAZhcXuAqhNETbWAf1YHaBWdxmmPXzo4JSkg==",
+  "dgSpecHash": "iutZD4Q6l00w+JIuTzvXo0ev9xc4jku5l29mt1ck68awUgkWORm00/P8cohRTpnPcuiX3/DjmjIpEU4i10E6xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Thom\\source\\repos\\TP1\\TP1.iOS\\TP1.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Thom\\source\\repos\\XamarinProfilApp\\TP1\\TP1.iOS\\TP1.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
