@@ -22,15 +22,11 @@ namespace TP1
             base.OnAppearing();
             j++;
             Views.Text = j.ToString();
+            Shares.Text = i.ToString();
         }
-
-        protected override void OnDisappearing()
-        {
-            base.OnDisappearing();
-        }
-
         private void AddSharing(object sender, EventArgs e)
         {
+            base.OnAppearing();
             i++;
             Shares.Text = i.ToString();
         }

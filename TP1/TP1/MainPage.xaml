@@ -41,7 +41,6 @@
                 <BoxView Grid.Row="1" />
                 <Label Grid.Row="1"
                        x:Name="Views"
-                       Text=""
                        HorizontalOptions="Center"
                        VerticalOptions="Center" />
                 <BoxView Grid.Row="1"
@@ -49,7 +48,6 @@
                 <Label Grid.Row="1"
                        Grid.Column="2"
                        x:Name="Shares"
-                       Text="0"
                        HorizontalOptions="Center"
                        VerticalOptions="Center" />
                 <BoxView Grid.Row="2"
@@ -64,7 +62,7 @@
                        VerticalOptions="Center" />
             </Grid>
             <BoxView HorizontalOptions="FillAndExpand" 
-                     Color="Black" 
+                     Color="Silver" 
                      HeightRequest="1" 
                      Margin="30,-17,30,0"/>
             <Label Text="Informations" 
