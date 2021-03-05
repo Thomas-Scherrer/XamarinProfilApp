@@ -41,14 +41,14 @@
                 <BoxView Grid.Row="1" />
                 <Label Grid.Row="1"
                        x:Name="Views"
-                       Text="17"
+                       Text=""
                        HorizontalOptions="Center"
                        VerticalOptions="Center" />
                 <BoxView Grid.Row="1"
                          Grid.Column="1" />
                 <Label Grid.Row="1"
                        Grid.Column="2"
-                       x:Name="Share"
+                       x:Name="Shares"
                        Text="0"
                        HorizontalOptions="Center"
                        VerticalOptions="Center" />

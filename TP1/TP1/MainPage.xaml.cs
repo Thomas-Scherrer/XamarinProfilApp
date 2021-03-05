@@ -11,14 +11,21 @@ namespace TP1
     public partial class MainPage : ContentPage
     {
         int i = 0;
+        int j = 0;
         public MainPage()
         {
             InitializeComponent();
         }
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            j++;
+            Views.Text = j.ToString();
+        }
         private void AddSharing(object sender, EventArgs e)
         {
             i++;
-            Share.Text = i.ToString();
+            Shares.Text = i.ToString();
         }
     }
 }
