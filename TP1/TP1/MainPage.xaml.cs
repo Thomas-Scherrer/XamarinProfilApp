@@ -12,6 +12,7 @@ namespace TP1
     {
         int i = 0;
         int j = 0;
+
         public MainPage()
         {
             InitializeComponent();
@@ -22,6 +23,12 @@ namespace TP1
             j++;
             Views.Text = j.ToString();
         }
+
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+        }
+
         private void AddSharing(object sender, EventArgs e)
         {
             i++;
